@@ -10,7 +10,7 @@
          
 
 <h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 20 px>  Competencias </h2>
-img src = "https://github.com/user-attachments/assets/f7c7cc75-4529-4863-8078-7fd03d88a4ff" width = 20px>
+<img src = "https://github.com/user-attachments/assets/f7c7cc75-4529-4863-8078-7fd03d88a4ff" width = 20px/>
 
 
 <h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Contacto </h2>
