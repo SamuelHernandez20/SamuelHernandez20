@@ -2,3 +2,8 @@
 
 
 <img src="images/Presentacion_GitHub.png" width="600" height="300" /> 
+
+<details>
+<summary>🧮 Sobre mí </summary>
+
+</details>
