@@ -13,9 +13,9 @@
 
 
 <ul >
-    <img src = "https://github.com/user-attachments/assets/f7c7cc75-4529-4863-8078-7fd03d88a4ff" width = 40px/>
-    <img src = "https://github.com/user-attachments/assets/f7c7cc75-4529-4863-8078-7fd03d88a4ff" width = 40px/>
-    <img src = "https://github.com/user-attachments/assets/f7c7cc75-4529-4863-8078-7fd03d88a4ff" width = 40px/>
+    <img src = "https://github.com/user-attachments/assets/f7c7cc75-4529-4863-8078-7fd03d88a4ff" width = 40px/> <br>
+    <img src = "https://github.com/user-attachments/assets/f7c7cc75-4529-4863-8078-7fd03d88a4ff" width = 40px/><br>
+    <img src = "https://github.com/user-attachments/assets/f7c7cc75-4529-4863-8078-7fd03d88a4ff" width = 40px/><br>
     
 
     
