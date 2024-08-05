@@ -13,7 +13,7 @@
 
 
 <ul type="square">
-    <li><img src = "https://github.com/user-attachments/assets/f7c7cc75-4529-4863-8078-7fd03d88a4ff" width = 40px/></li>
+    <img src = "https://github.com/user-attachments/assets/f7c7cc75-4529-4863-8078-7fd03d88a4ff" width = 40px/>
     <li>Elemento 2</li>
     <li>Elemento 3</li>
 </ul>
