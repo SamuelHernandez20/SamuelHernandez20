@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, mi nombre es Samuel Hernández
 
 <!--
 **SamuelHernandez20/SamuelHernandez20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
