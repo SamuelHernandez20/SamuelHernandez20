@@ -5,7 +5,7 @@
 <img src="images/Presentacion_GitHub.png" alt="Perfil" width="620" height="300"/>
 
 <details>
-<summary> 🧮 Sobre mí </summary>
+<summary> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px>  Sobre mí </summary>
 </details>
 
 <details>
