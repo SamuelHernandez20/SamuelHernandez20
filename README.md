@@ -1,5 +1,5 @@
 ## Hi there 👋, mi nombre es Samuel Hernández
-![](Presentación_GitHub.png)
+![](./images/Presentación_GitHub.png)
 
 <!--
 **SamuelHernandez20/SamuelHernandez20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
