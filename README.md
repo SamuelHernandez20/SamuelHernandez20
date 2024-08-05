@@ -5,7 +5,7 @@
 <img src="images/Presentacion_GitHub.png" alt="Perfil" width="620" height="300"/>
 
 <details>
-<summary> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 20px>  Sobre mí </summary>
+<summary style="font-size: 20px; color: blue;"> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 20px>  Sobre mí </summary>
 </details>
 
 <details>
