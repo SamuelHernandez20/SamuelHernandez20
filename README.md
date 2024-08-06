@@ -37,5 +37,7 @@
 <a href="https://www.linkedin.com/in/samuel-hern%C3%A1ndez-1591212ab/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
 </p>
 
+<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="samuel-hernández-1591212ab" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://es.linkedin.com/in/samuel-hern%C3%A1ndez-1591212ab?trk=profile-badge">Samuel Hernández</a></div>
+              
 
 
