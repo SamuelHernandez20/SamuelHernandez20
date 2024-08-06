@@ -24,11 +24,12 @@
 <h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Estadísticas </h2>
 
 
-[![](https://raw.githubusercontent.com/SamuelHernandez20/SamuelHernandez/master/profile-summary-card-output/blue_green/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 [![](https://raw.githubusercontent.com/SamuelHernandez20/SamuelHernandez/master/profile-summary-card-output/blue_green/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
 [![](https://raw.githubusercontent.com/SamuelHernandez20/SamuelHernandez/master/profile-summary-card-output/blue_green/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/SamuelHernandez20/SamuelHernandez/master/profile-summary-card-output/blue_green/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
 [![](https://raw.githubusercontent.com/SamuelHernandez20/SamuelHernandez/master/profile-summary-card-output/blue_green/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/SamuelHernandez20/SamuelHernandez/master/profile-summary-card-output/blue_green/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 <h2 align="center" ><img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" width="25px"> Conecta conmigo </h2>
 
