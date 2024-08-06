@@ -15,7 +15,7 @@
 <img src="images/Tecnologias.png" alt="tecnologias" width="650" height="400" />
 
 
-
+<h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Contacto </h2>
 
 
 
