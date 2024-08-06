@@ -9,7 +9,7 @@
 
 <h2> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 20px>  Sobre mí </h2>
 <pre>
-🎓 Estudiante graduado en **Administración de sistemas informaticos** & **Sistemas microinformáticos y redes**.
+🎓 Estudiante graduado en "Administración de sistemas informaticos" & "Sistemas microinformáticos y redes".
 📚 Actualmente me encuentro aprendiendo MongoDB, PL/SQL, SQL Common Table Expression, Oracle y Jenkins.
 💪🏼 Future Goals: Seguir aprendiendo nuevas tecnologías emergentes, para poder aportar valor en el mercado.
 ⚡ Fun fact: En mis ratos libres me gusta embarcarme en nuevas prácticas y proyectos personales.
