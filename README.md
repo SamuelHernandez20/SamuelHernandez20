@@ -11,6 +11,7 @@
 <pre>
 🎓 Estudiante graduado en "Administración de sistemas informaticos" & "Sistemas microinformáticos y redes".
 📚 Actualmente me encuentro aprendiendo MongoDB, PL/SQL, SQL Common Table Expression, Oracle y Jenkins.
+👩‍💻 En busca activa de empleo en áreas relacionadas con las bases de datos o devops.
 💪🏼 Future Goals: Seguir aprendiendo nuevas tecnologías emergentes, para poder aportar valor en el mercado.
 ⚡ Fun fact: En mis ratos libres me gusta embarcarme en nuevas prácticas y proyectos personales.
 </pre>
@@ -20,7 +21,9 @@
 <img src="images/Tecnologias.png" alt="tecnologias" width="550" height="650" />
 
 
+<h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Estadísticas </h2>
 <h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Contacto </h2>
+
 
 
 
