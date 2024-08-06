@@ -35,7 +35,9 @@
 [![LinkdIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/samuel-hern%C3%A1ndez-1591212ab/)
 </p>
 
-
+<p align="center">
+  <a href="mailto:tuemail@gmail.com" style="text-decoration: none; color: #ffffff; background-color: #007bff; padding: 10px 20px; border-radius: 5px; font-weight: bold;">Envíame un correo</a>
+</p>
 
 
 
