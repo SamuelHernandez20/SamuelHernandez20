@@ -28,7 +28,7 @@
 [![](https://raw.githubusercontent.com/SamuelHernandez20/SamuelHernandez/master/profile-summary-card-output/blue_green/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/SamuelHernandez20/SamuelHernandez/master/profile-summary-card-output/blue_green/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/SamuelHernandez20/SamuelHernandez/master/profile-summary-card-output/blue_green/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/SamuelHernandez20/SamuelHernandez/master/profile-summary-card-output/blue_green/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-<h2 ><img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" width="25px"> Conecta conmigo </h2>
+<h2 align="center" ><img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" width="25px"> Conecta conmigo </h2>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/samuel-hern%C3%A1ndez-1591212ab/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
