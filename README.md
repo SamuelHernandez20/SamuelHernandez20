@@ -12,7 +12,7 @@
 - 🎓 Estudiante graduado en *Administración de sistemas informaticos* & *Sistemas microinformáticos y redes*.
 - 📚 Actualmente me encuentro aprendiendo MongoDB, PL/SQL, SQL Common Table Expression, Oracle y Jenkins.
 - 💪🏼 Future Goals: Seguir aprendiendo nuevas tecnologías emergentes, para poder aportar valor en el mercado.
-- ⚡ Fun fact: I love to play pool and snooker 🎱.
+- ⚡ Fun fact: En mis ratos libres me gusta embarcarme en nuevas prácticas y proyectos personales.
 
 <h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 20 px>  Competencias </h2>
 
