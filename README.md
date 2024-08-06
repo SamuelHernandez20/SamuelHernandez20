@@ -9,7 +9,7 @@
 
 <h2> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 20px>  Sobre mí </h2>
 
-- ![image](https://github.com/user-attachments/assets/1af32dc7-330f-4499-9b09-91b30a19685b)  I’m currently working on web development technologies like JavaScript, React etc.
+- 🎓 Estudiante graduado en *Administración de sistemas informaticos* & *Sistemas microinformáticos y redes*.
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Fun fact: I love to play pool and snooker 🎱.
