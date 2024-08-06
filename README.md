@@ -30,9 +30,8 @@
 
 <h2><img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" width="25px"> Conecta conmigo </h2>
 
-<div align="center">
+
 [![Email](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hernandezsantistebansamuel@gmail.com)
-</div>
 [![LinkdIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/samuel-hern%C3%A1ndez-1591212ab/)
 
 
