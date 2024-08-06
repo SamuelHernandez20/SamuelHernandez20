@@ -10,7 +10,7 @@
 <h2> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 20px>  Sobre mí </h2>
 
 - 🎓 Estudiante graduado en *Administración de sistemas informaticos* & *Sistemas microinformáticos y redes*.
-- 📚 Actualmente me encuentro aprendiendo MongoDB, PL/SQL, profundizando en conceptos SQL avanzados como las CTE, Oracle y Jenkins.
+- 📚 Actualmente me encuentro aprendiendo MongoDB, PL/SQL, SQL Common Table Expression, Oracle y Jenkins.
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Fun fact: I love to play pool and snooker 🎱.
 
