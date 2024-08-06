@@ -30,7 +30,7 @@
 
 <h2 ><img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" width="25px"> Conecta conmigo </h2>
 
-<p align="center">
+<p >
 <a href="https://www.linkedin.com/in/samuel-hern%C3%A1ndez-1591212ab/" target="blank"><img  src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
 </p>
 
