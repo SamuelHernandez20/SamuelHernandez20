@@ -22,7 +22,7 @@
 
 
 <h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Estadísticas </h2>
-<h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Contacto </h2>
+<h2><img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" width="30px"> Conecta conmigo </h2>
 
 
 
