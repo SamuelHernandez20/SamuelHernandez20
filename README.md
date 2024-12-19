@@ -9,11 +9,11 @@
 
 <h2> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 20px>  Sobre mí </h2>
 <pre>
-🎓 Estudiante graduado en "Administración de sistemas informaticos" & "Sistemas microinformáticos y redes".
-📚 Actualmente me encuentro aprendiendo MongoDB, PL/SQL, SQL Common Table Expression, Oracle y Jenkins.
-👩‍💻 En busca activa de empleo en áreas relacionadas con las bases de datos o devops.
-💪🏼 Metas futuras: Seguir aprendiendo nuevas tecnologías emergentes, para poder aportar valor en el mercado.
-⚡ Datos curiosos: En mis ratos libres me gusta embarcarme en nuevas prácticas y proyectos personales.
+🎓 Graduate student in "Computer Systems Administration" & "Microcomputer Systems and Networks".
+📚 I am currently learning MongoDB, PL/SQL, SQL Common Table Expression, Oracle and Jenkins.
+👩‍💻 Actively seeking employment in areas related to databases or devops.
+💪🏼 Future goals: Continue learning new emerging technologies, to be able to add value to the market.
+⚡ Fun facts: In my free time I like to embark on new practices and personal projects
 </pre>
 
 <h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 20 px>  Competencias </h2>
